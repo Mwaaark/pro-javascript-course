@@ -23,3 +23,27 @@ class Triangle {
     return `The triangle with side A of ${this.base} and side B of ${this.height} and with an area of ${this.getArea()} says hi!`;
   }
 }
+
+class ShyTriangle extends Triangle {
+  describe() {
+    return `I am a shy triangle.`;
+  }
+
+  beShy() {
+    return "I am too shy to say hi!";
+  }
+}
+
+class ColorTriangle extends Triangle {
+  constructor(base, height, color) {
+    super(base, height);
+    this.color = color;
+  }
+}
+
+class ColorMoodTriangle extends ColorTriangle {
+  constructor(base, height, color, mood) {
+    super(base, height, color);
+    this.mood = mood;
+  }
+}
