@@ -1,0 +1,5 @@
+JAVASCRIPT PRO: MASTERING ADVANCED CONCEPTS AND TECHNIQUES
+
+POJO = Plain Old Javascript Objects
+
+Constructor - can validate data & assign properties
