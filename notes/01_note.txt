@@ -2,4 +2,8 @@ JAVASCRIPT PRO: MASTERING ADVANCED CONCEPTS AND TECHNIQUES
 
 POJO = Plain Old Javascript Objects
 
-Constructor - can validate data & assign properties
+Constructor
+    can validate data & assign properties
+
+Methods
+    functions placed in a class (formally, instance methods)
