@@ -7,3 +7,10 @@ Constructor
 
 Methods
     functions placed in a class (formally, instance methods)
+
+Static properties
+    individidual pieces of data are on the class, not on instances
+
+Static methods
+    the method is called on the Class, not an object - therefore it
+    cannot have access to individual object attributes (class method)
