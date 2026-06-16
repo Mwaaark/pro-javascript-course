@@ -1,0 +1,7 @@
+NEWER OO FEATURES IN JAVASCRIPT
+
+Getters
+    allow you to retrieve the value of an object's property
+
+Setters
+    allow you to set the value of an object's property
