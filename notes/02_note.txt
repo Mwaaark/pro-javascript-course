@@ -5,3 +5,7 @@ Getters
 
 Setters
     allow you to set the value of an object's property
+
+Public Fields
+    allow access within the class but also from
+    outside the class or individual instances
