@@ -13,3 +13,7 @@ Public Fields
 Private Fields
     provide a way to maintain encapsulation and not
     allow external access
+
+Static Initialization Blocks
+    block of code that runs once when your class is loaded
+    
