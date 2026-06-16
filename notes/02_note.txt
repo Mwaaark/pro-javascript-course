@@ -9,3 +9,7 @@ Setters
 Public Fields
     allow access within the class but also from
     outside the class or individual instances
+
+Private Fields
+    provide a way to maintain encapsulation and not
+    allow external access
